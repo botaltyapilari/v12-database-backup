@@ -1,0 +1,16 @@
+{
+  "name": "borangkdn-qdb-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "borangkdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BoranGkdn",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3"
+  }
+}

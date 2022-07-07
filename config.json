@@ -1,0 +1,16 @@
+{
+    "bot": {
+        "token": "BOT TOKEN",
+        "owners": ["KURUCU ID"],
+        "prefix": ["!"],
+        "Footer": "YOUTUBE BORANGKDN",
+        "Durum": "BOT DURUM"
+    },
+    "Guild": {
+        "SunucuID": "SUNUCU ID"
+    },
+    "channels": {
+        "SesKanalıID": "SES KANALI ID",
+        "BackupLog": "BACKUP LOG"
+    }
+}
